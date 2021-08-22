@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## This app is also deployed on [https://material-ui-typescript.vercel.app/](fakestore-api)
+## This app is also deployed on [fakestore-api](https://material-ui-typescript.vercel.app/)
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
